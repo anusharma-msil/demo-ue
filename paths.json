@@ -5,6 +5,6 @@
     "/content/demo-ue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/demo-um/"
+    "/content/demo-ue/"
   ]
 }
